@@ -9,7 +9,9 @@ PHP 7.0 или выше
 
 ## Установка
 
-
+```shell
+composer require alisa-selezneva/composer-package
+```
 
 ## Использование
 ```php
