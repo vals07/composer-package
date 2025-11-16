@@ -1,0 +1,17 @@
+{
+    "name": "alisa-selezneva/composer-package",
+    "description": "PHP library with a function to check if a string is a palindrome.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AlisaSelezneva\\ComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alisa",
+            "email": "vals_0791@mail.ru"
+        }
+    ],
+    "require": {}
+}
