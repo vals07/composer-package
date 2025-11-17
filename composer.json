@@ -13,5 +13,7 @@
             "email": "vals_0791@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
